@@ -1,0 +1,19 @@
+{
+  "name": "janusjs",
+  "version": "0.0.1",
+  "authors": [
+    "aitnasser <aitnasser@gmail.com>"
+  ],
+  "description": "janus client with socket.io",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
