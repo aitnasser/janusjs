@@ -5,7 +5,7 @@
     "aitnasser <aitnasser@gmail.com>"
   ],
   "description": "janus client with socket.io",
-  "main": "",
+  "main": "janus.socketio.js",
   "moduleType": [],
   "license": "MIT",
   "homepage": "",
